@@ -1,4 +1,6 @@
-body {
+@import url('https://fonts.googleapis.com/css?family=Handlee|Open+Sans');
+
+body { 
   text-align: center;
   background: url("../images/cover_image.jpg");
   background-size: cover;
@@ -6,6 +8,8 @@ body {
   font-family: Helvetica;
 }
 h1 {
+	font-family: 'Handlee', cursive;
+	padding: 20px;
   text-align: center;
 }
 hr {
@@ -13,5 +17,7 @@ hr {
 }
 
 p {
+	font-family: 'Open Sans', sans-serif;
+	padding: 30px;
   font-size: 22px;
 }
