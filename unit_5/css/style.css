@@ -1,0 +1,86 @@
+body {
+	/*background-color: #026072;*/
+	color: #000000;
+	font-family: 'Open Sans Condensed 300', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	/*background-color: black;*/
+   }
+header {
+    background-color: #FFED74;
+    padding: 30px;
+}
+
+#nav {
+	float: left;
+    background-color: E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
+
+#wrapper {
+	padding: 90px
+	background-color: #000000;
+}
+
+#About {
+	float: left;
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
+
+#Services {
+	float: right;
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
+
+#article1 {
+	float: left;
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
+
+#article2 {
+	float: right;
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+}
+
+span {
+	font-variant: caps;
+	letter-spacing: .2em;
+	padding: 2 .2em;
+	background: #f4424b;
+}
+
+p{
+	padding-left: 400px;
+	padding-right: 400px;
+	font-family: 'Open Sans Condensed', '300', sans-serif;
+	font-size: 16px;
+	line-height: em1.5;
+	text-align: justify;
+	}
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+}
